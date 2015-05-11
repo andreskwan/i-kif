@@ -1,0 +1,38 @@
+# OSX Files
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
+
+# Xcode
+#
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+*.pyc
+*.ipa
+*.xccheckout
+*.xcuserdatad
+project.xcworkspace/
+xcuserdata/
+build/
+Release/
+.idea/
+test-reports/
+ccn_results/
+coverage_results/
+test-reports/
+Podfile.swp
+process_coverage_files.sh
+
+# CocoaPods
+#
+# We recommend against adding the Pods directory to your .gitignore. However
+# you should judge for yourself, the pros and cons are mentioned at:
+# http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
+#
+# Pods/
+
